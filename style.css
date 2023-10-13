@@ -639,7 +639,7 @@ h3.my-profession {
 }
 .skill-title {
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 600;
   
 }
 
@@ -742,8 +742,8 @@ h3.my-profession {
  }
  
  .project-img {
-     width: 300px;
-     height: 190px;
+     width: 290px;
+     height: 175px;
      border-radius: 1rem;
     margin-right: 5rem;
  }
@@ -760,8 +760,8 @@ h3.my-profession {
     border-radius: 1rem;
     margin-bottom: 8.5px;
     bottom: -100%;
-    width: 300px;
-    height: 190px;
+    width: 290px;
+    height: 175px;
     background:  hsla(0, 0%, 0%, 0.4);
     display: flex;
     flex-direction: column;
@@ -1185,7 +1185,7 @@ h3.my-profession {
     }
 
     .skill-container {
-        margin-left: 2.5rem;
+        margin-left: 2rem;
     }
 
     .footer-title{
